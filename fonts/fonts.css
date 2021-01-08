@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "open_sans_bold";
+    src: 
+        url("open_sans_bold.eot") format("eot"),
+        url("open_sans_bold.otf") format("otf"),
+        url("open_sans_bold.svg") format("svg"),
+        url("open_sans_bold.ttf") format("ttf"),
+        url("open_sans_bold.woff") format("woff"),
+        url("open_sans_bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "open_sans_regular";
+    src: 
+        url("open_sans_regular.eot") format("eot"),
+        url("open_sans_regular.otf") format("otf"),
+        url("open_sans_regular.svg") format("svg"),
+        url("open_sans_regular.ttf") format("ttf"),
+        url("open_sans_regular.woff") format("woff"),
+        url("open_sans_regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "vegurmedium";
+    src: 
+        url("vegurmedium.eot") format("eot"),
+        url("vegurmedium.otf") format("otf"),
+        url("vegurmedium.svg") format("svg"),
+        url("vegurmedium.ttf") format("ttf"),
+        url("vegurmedium.woff") format("woff"),
+        url("vegurmedium.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+}
